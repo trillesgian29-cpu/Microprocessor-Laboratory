@@ -27,6 +27,7 @@ monitoring system.
 | [Lab 07](Lab07-Smart-Temperature-Alarm) | Smart Temperature Alarm | LM35, Buzzer, Threshold Logic |
 | [[Lab 08](Lab08-Smart-Streetlight) | Smart Streetlight System | Light Sensor, Conditional Logic, Automation |
 | [Lab 09](Lab09-Integrated-Monitoring-System) | Integrated Environmental Monitoring System | LM35, Potentiometer, 3x3 LED, Buzzer, Multi-threshold Logic |
+| [View all Lab Report in one pdf](Gian-MicroProcessor_LabReport_All-Laboraoty.pdf) | I put all the report in just one pdf for easy viewing  |
 
 ---
 
