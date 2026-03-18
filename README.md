@@ -16,17 +16,17 @@ monitoring system.
 
 ## 🧪 Laboratory List
 
-| Lab | Title | Key Concepts |
+|  Lab  | Title | Key Concepts |
 |-----|-------|-------------|
 | [Lab 01](Lab01-LED-On-Off) | LED On and Off | GPIO, Digital Output |
-| Lab 02 | Dancing LED System | GPIO, Timing, Patterns |
-| Lab 03 | 3x3 Matrix LED Display | Nested For Loops, Arrays |
-| Lab 04 | Drag Race Traffic Light (Diorama) | GPIO, Timing, Sequencing |
-| Lab 05 | Analog Input - Potentiometer & LCD | Analog Input, Voltage Divider, LCD |
-| Lab 06 | LM35 Temperature Sensor & LCD | Sensor Interfacing, ADC, LCD Display |
-| Lab 07 | Smart Temperature Alarm | LM35, Buzzer, Threshold Logic |
-| Lab 08 | Smart Streetlight System | Light Sensor, Conditional Logic, Automation |
-| Lab 09 | Integrated Environmental Monitoring System | LM35, Potentiometer, 3x3 LED, Buzzer, Multi-threshold Logic |
+| [Lab 02](Lab02-Dancing-LED) | Dancing LED System | GPIO, Timing, Patterns |
+| [Lab 03](Lab03-3x3-Matrix-LED) | 3x3 Matrix LED Display | Nested For Loops, Arrays |
+| [Lab 04](Lab04-Dragrace-Traffic-Light) | Drag Race Traffic Light (Diorama) | GPIO, Timing, Sequencing |
+| [Lab 05](Lab05-Analog-Input-Potentiometer) | Analog Input - Potentiometer & LCD | Analog Input, Voltage Divider, LCD |
+| [Lab 06](Lab06-LM35-Temperature-LCD) | LM35 Temperature Sensor & LCD | Sensor Interfacing, ADC, LCD Display |
+| [Lab 07](Lab07-Smart-Temperature-Alarm) | Smart Temperature Alarm | LM35, Buzzer, Threshold Logic |
+| [[Lab 08](Lab08-Smart-Streetlight) | Smart Streetlight System | Light Sensor, Conditional Logic, Automation |
+| [Lab 09](Lab09-Integrated-Monitoring-System) | Integrated Environmental Monitoring System | LM35, Potentiometer, 3x3 LED, Buzzer, Multi-threshold Logic |
 
 ---
 
