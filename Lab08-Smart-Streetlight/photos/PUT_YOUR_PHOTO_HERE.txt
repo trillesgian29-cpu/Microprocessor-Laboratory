@@ -1,0 +1,2 @@
+Add your hardware setup photo for Lab 08 here.
+Rename it to: setup.jpg
