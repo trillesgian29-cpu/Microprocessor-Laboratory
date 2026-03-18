@@ -77,6 +77,6 @@ Each lab folder contains:
 ---
 
 *Gian Carlo D. Trilles - BSCpE Student, Bicol University Polangui Campus*
-📧 trillesgian29@gmail.com
-🌐 [Portfolio](https://trillesgian29-cpu.github.io/MyyPortfolio)
-🐙 [GitHub](https://github.com/trillesgian29-cpu)
+-📧 trillesgian29@gmail.com
+-🌐 [Portfolio](myy-portfolio-wheat.vercel.app)
+-🐙 [GitHub](https://github.com/trillesgian29-cpu)
